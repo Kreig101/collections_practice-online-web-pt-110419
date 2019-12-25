@@ -45,3 +45,7 @@ end
 def sum_array(array) 
 array.inject { |sum, n| sum + n } 
 end
+
+
+array.replace(["hands","feet", "knees", "tables"])
+end
